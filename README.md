@@ -67,18 +67,18 @@ Tenho uma afinidade natural com tecnologia e estou trilhando meu caminho para me
 
 <p>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MiguelLvs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+align="left" 
+alt="GitHub Stats" 
+height="200" 
+style="padding-right: 10px;" 
+src="https://github-readme-stats.vercel.app/api?username=MiguelLvs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLvs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+align="left" 
+alt="GitHub Stats" 
+height="200" 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelLvs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
